@@ -1,0 +1,17 @@
+{
+  "name": "prime-ckecker",
+  "version": "1.0.0",
+  "description": "Moodule de nombre premier",
+  "keywords": [
+    "prime",
+    "math",
+    "checker"
+  ],
+  "license": "ISC",
+  "author": "Elie Elisée",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
