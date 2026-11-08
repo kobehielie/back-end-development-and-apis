@@ -1,0 +1,6 @@
+nohup: ignoring input
+
+> build-a-timestamp-microservice@0.0.1 start
+> node server.js
+
+Your app is listening on port 3000
